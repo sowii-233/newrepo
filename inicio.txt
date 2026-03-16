@@ -1,6 +1,5 @@
 ablublublablé
 mais um teste
-<<<<<<< HEAD
 teste novo agora na master
 
 vamo lá, agora é com rebase
