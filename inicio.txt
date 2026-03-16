@@ -6,4 +6,4 @@ teste novo agora na master
 vamo lá, agora é com rebase
 teste do rebase
 
-mais um teste de rebase — agora é para testar tudo, ô kct KKKKKKKKK
+mais um teste de rebase — meu teste faiou
